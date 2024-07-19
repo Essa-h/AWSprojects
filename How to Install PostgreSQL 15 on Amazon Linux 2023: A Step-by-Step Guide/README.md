@@ -27,5 +27,4 @@ You can click to “launch instance” button for create a EC2 instance
 
 6. Check the Summary and click Launch instance (right pane) under the Summary section to launch your EC2 instance.
 <img width="803" alt="Screenshot 2024-07-08 at 8 53 54 PM" src="https://github.com/Essa-h/AWSprojects/assets/97895341/2d6136e9-4817-4296-8aa6-8b6b3007a473">
-stance.
 
